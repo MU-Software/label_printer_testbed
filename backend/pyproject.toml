@@ -8,6 +8,7 @@ dependencies = [
     "async-lru>=2.0.5",
     "fastapi>=0.115.12",
     "jinja2>=3.1.6",
+    "jupyterlab>=4.4.1",
     "pillow>=11.2.1",
     "pydantic>=2.11.3",
     "pyserial>=3.5",
